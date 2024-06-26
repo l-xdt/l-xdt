@@ -4,9 +4,9 @@
 
 ### <u>The Latest:</u>
 
-#### 1. XioTube:: 10 Minutes Old.
+#### 1. Xirox :: 10 Minutes Old.
 
-#### **2. XioTok :: 2 Months Old.**
+#### **2. XioTok :: 3 Weeks Old.**
 
 ## <u>Changelog</u>
 
@@ -29,6 +29,14 @@
 ##### i. Updated README
 
 ##### ***Updated the readme to include XioTube and match the Rebrand***
+
+[Link](https://github.com/l-xdt/l-xdt/commit/4a0d4ba2678728845bfa88e3814f1b276b1e3b3a)
+
+#### <u>26th June, 2024</u>
+
+##### i. Fresh Project.
+
+##### ***Freshest Project, fosho! So get it hot [:3]***
 
 [Link](https://github.com/l-xdt/l-xdt/commits)
 
@@ -162,14 +170,16 @@
 
 [Link](https://github.com/l-xdt/xiotok/commit/d064df764c73884d8bb58d948e2831d5d6846644)
 
-### <u>XioTube (June, 2024)</u>
+### <u>XioTube (June, 2024)</u>
 
 #### <u>2nd June, 2024</u>
 
 ##### i. Finished!
 
 - ***I have uploaded everything.. Bye once-more***
+  
 - ***XDT :: Avun***
+  
 
 [Link](https://github.com/l-xdt/xiotube/commit/d671677a5d36abab4babfbc7d10c7641a6cef8ab)
 
@@ -189,6 +199,38 @@
 - ***L-XDT :: Avun***
   
 
+[Link](https://github.com/l-xdt/xirox/commit/a6ad90cf21ba150575aced0052a2e2d3a2e31b0d)
+
+### <u>XioTube (June, 2024)</u>
+
+#### <u>26th June, 2024</u>
+
+##### i. Finished!
+
+- ***All done.. Byeee!***
+  
+- ***XDT :: Avun***
+  
+
 [Link](https://github.com/l-xdt/xiotube/commit/d86d7b013c0e48b94ce7778db38445262f4e9343)
+
+##### ii. something fast
+
+- ***yeah***
+  
+
+[Link](https://github.com/l-xdt/xirox/commit/00a148439d9976a26b4eaaa83c70625cdc22ce96)
+
+##### iii. 1 slash
+
+- ***yeah one slash changed***
+
+[Link](https://github.com/l-xdt/xirox/commit/db855b61ce301fd509409c46086b4479fc27140a)
+
+###### iii. 1 slash
+
+- ***yeah one slash changed***
+
+[Link](https://github.com/l-xdt/xirox/commit/6139a921332818b1575d26a2b5ffc53e41e275c4)
 
 ---
