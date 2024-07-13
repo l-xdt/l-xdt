@@ -4,7 +4,7 @@
 
 ### <u>The Latest:</u>
 
-#### **1. xSocial ::1 hour old.**
+#### **1. xSocial :: 1 hour old.**
 
 #### 2. Xirox :: 2 Weeks Old.
 
@@ -46,7 +46,13 @@
 
 ##### ***XDT blessing you with another fresh proj. For real***
 
-[Link](https://github.com/l-xdt/l-xdt/commits/)
+[Link](https://github.com/l-xdt/l-xdt/commit/3dd1afca62278bec7c089f7174f604503060da02)
+
+##### ii. Update II~
+
+##### ***random update lol. One space.***
+
+[Link](https://github.com/l-xdt/l-xdt/commits)
 
 ---
 
@@ -234,7 +240,7 @@
 
 [Link](https://github.com/l-xdt/xirox/commit/db855b61ce301fd509409c46086b4479fc27140a)
 
-###### iii. 1 slash
+###### iv. 1 slash
 
 - ***yeah one slash changed***
 
