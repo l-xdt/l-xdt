@@ -4,9 +4,9 @@
 
 ### <u>The Latest:</u>
 
-#### 1. Xirox :: 10 Minutes Old.
+#### **1. xSocial ::1 hour old.**
 
-#### **2. XioTok :: 3 Weeks Old.**
+#### 2. Xirox :: 2 Weeks Old.
 
 ## <u>Changelog</u>
 
@@ -34,11 +34,19 @@
 
 #### <u>26th June, 2024</u>
 
-##### i. Fresh Project.
+##### i. i. Fresh Project.
 
 ##### ***Freshest Project, fosho! So get it hot [:3]***
 
-[Link](https://github.com/l-xdt/l-xdt/commits)
+[Link](https://github.com/l-xdt/l-xdt/commit/2c0e40ad36126c6947f193b2474c00db8974acbc)
+
+#### <u>13h July, 2024</u>
+
+##### i. Update~
+
+##### ***XDT blessing you with another fresh proj. For real***
+
+[Link](https://github.com/l-xdt/l-xdt/commits/)
 
 ---
 
@@ -217,7 +225,6 @@
 ##### ii. something fast
 
 - ***yeah***
-  
 
 [Link](https://github.com/l-xdt/xirox/commit/00a148439d9976a26b4eaaa83c70625cdc22ce96)
 
@@ -232,5 +239,18 @@
 - ***yeah one slash changed***
 
 [Link](https://github.com/l-xdt/xirox/commit/6139a921332818b1575d26a2b5ffc53e41e275c4)
+
+### <u>xSocial (July, 2024)</u>
+
+#### <u>13th July, 2024</u>
+
+##### i. Finished
+
+- ***All Done. Whatchu gon Do?***
+  
+- ***Maranx ^ L-XDT***
+  
+
+[Link](https://github.com/l-xdt/xSocial/commit/b778037899929f2d36e2b3e4980c065b961a45bb)
 
 ---
