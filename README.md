@@ -4,11 +4,11 @@
 
 ### <u>The Latest:</u>
 
-### **1. XGram :: 1 hour old.**
+### **1. XChat :: 1 hour old.**
 
-#### **2. xSocial :: 21 hours old.**
+#### **2. XGram :: 2 weeks old.**
 
-#### 3. Xirox :: 2 Weeks Old.
+#### 3. xSocial :: 2 weeks old
 
 ## <u>Changelog</u>
 
@@ -61,6 +61,14 @@
 ##### i. Upd~
 
 ##### ***XDT blessing you with another fresh proj. For real, for the second time.***
+
+[Link](https://github.com/l-xdt/l-xdt/commit/876649d5ee8a2a08a9be4152d7c91b0a0554eb6f)
+
+#### <u>25th July, 2024</u>
+
+##### i. Upd For Real~
+
+##### ***It's been a crazy month in terms of how many projects I've done.***
 
 [Link](https://github.com/l-xdt/l-xdt/commits/)
 
@@ -269,7 +277,7 @@
 
 [Link](https://github.com/l-xdt/xSocial/commit/b778037899929f2d36e2b3e4980c065b961a45bb)
 
-### <u>xGram (July, 2024)</u>
+### <u>XGram (July, 2024)</u>
 
 #### <u>14th July, 2024</u>
 
@@ -281,5 +289,18 @@
   
 
 [Link](https://github.com/l-xdt/xgram/commit/2af2822e43fa3c88307493e08a157926ad8d8c39)
+
+### <u>XChat (July, 2024)</u>
+
+#### <u>25th July, 2024</u>
+
+##### i. Finished
+
+- ***All Done! Enjoy it.***
+  
+- ***XDT:: Avun***
+  
+
+[Link](https://github.com/l-xdt/xchat/commit/203cdb4bf001698c77f9df058c36146b2862c0e3)
 
 ---
