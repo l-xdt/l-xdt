@@ -4,11 +4,11 @@
 
 ### <u>The Latest:</u>
 
-### **1. XChat :: 1 hour old.**
+### **1. XCord :: 1 hour old.**
 
-#### **2. XGram :: 2 weeks old.**
+#### **2. XChat :: 4 days old.**
 
-#### 3. xSocial :: 2 weeks old
+#### 3. XGram :: 2 weeks old.
 
 ## <u>Changelog</u>
 
@@ -69,6 +69,14 @@
 ##### i. Upd For Real~
 
 ##### ***It's been a crazy month in terms of how many projects I've done.***
+
+[Link](https://github.com/l-xdt/l-xdt/commit/16358756418073e5980b87c530c2d50f7a76f2c0)
+
+#### <u>29th July, 2024</u>
+
+##### i. Upd For the last~
+
+##### ***Finally July is over, let the fun begin.***
 
 [Link](https://github.com/l-xdt/l-xdt/commits/)
 
@@ -302,5 +310,27 @@
   
 
 [Link](https://github.com/l-xdt/xchat/commit/203cdb4bf001698c77f9df058c36146b2862c0e3)
+
+### <u>XChat (July, 2024)</u>
+
+#### <u>29th July, 2024</u>
+
+##### i. Finished
+
+- ***All Done! Enjoy it. And have a good end-month!***
+  
+- ***XDT:: Avun***
+  
+
+[Link](https://github.com/l-xdt/xcord/commit/b8403f643aa3baa0f523b32be8b57b76bd0ba441)
+
+##### ii. U1 - Fix
+
+- ***I just needed to fix something real-quick.***
+  
+- ***XDT:: Avun***
+  
+
+[Link](https://github.com/l-xdt/xcord/commit/2559d5af7338cdca3c5c95ab3fb57320ac42f406)
 
 ---
