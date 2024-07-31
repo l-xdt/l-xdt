@@ -4,11 +4,11 @@
 
 ### <u>The Latest:</u>
 
-### **1. XCord :: 1 hour old.**
+### **1. XApp :: 1 hour old.**
 
-#### **2. XChat :: 4 days old.**
+#### **2. XCord :: 3 days old.**
 
-#### 3. XGram :: 2 weeks old.
+#### 3. XChat :: 1 week old.
 
 ## <u>Changelog</u>
 
@@ -77,6 +77,14 @@
 ##### i. Upd For the last~
 
 ##### ***Finally July is over, let the fun begin.***
+
+[Link](https://github.com/l-xdt/l-xdt/commit/80f7133755f3c90bb0ec23cba105533d7cccd20c)
+
+#### <u>31st July, 2024</u>
+
+##### i. Upd For the last~
+
+##### ***Finally July (for real this time) is over, let the fun begin. For real. Let's enjoy august.***
 
 [Link](https://github.com/l-xdt/l-xdt/commits/)
 
@@ -311,7 +319,7 @@
 
 [Link](https://github.com/l-xdt/xchat/commit/203cdb4bf001698c77f9df058c36146b2862c0e3)
 
-### <u>XChat (July, 2024)</u>
+### <u>XCord (July, 2024)</u>
 
 #### <u>29th July, 2024</u>
 
@@ -332,5 +340,18 @@
   
 
 [Link](https://github.com/l-xdt/xcord/commit/2559d5af7338cdca3c5c95ab3fb57320ac42f406)
+
+### <u>XApp (July, 2024)</u>
+
+#### <u>31st July, 2024</u>
+
+##### i. Finished
+
+- ***Just one for the end of the month! Enjoy.***
+  
+- ***XDT:: Avun***
+  
+
+[Link](https://github.com/l-xdt/xapp/commit/76cfa4b29298f63cb6d207a38c426d29fcf07a96)
 
 ---
