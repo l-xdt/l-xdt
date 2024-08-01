@@ -4,11 +4,11 @@
 
 ### <u>The Latest:</u>
 
-### **1. XApp :: 1 hour old.**
+### **1. Xelegram :: 1 hour old.**
 
-#### **2. XCord :: 3 days old.**
+#### **2. XApp :: 1 day old.**
 
-#### 3. XChat :: 1 week old.
+#### 3. XCord :: 4 days old.
 
 ## <u>Changelog</u>
 
@@ -86,7 +86,15 @@
 
 ##### ***Finally July (for real this time) is over, let the fun begin. For real. Let's enjoy august.***
 
-[Link](https://github.com/l-xdt/l-xdt/commits/)
+[Link](https://github.com/l-xdt/l-xdt/commit/df5a8151c405b333517d3d4cbca8882aacd153ae)
+
+#### <u>2nd August, 2024</u>
+
+##### i. Small changes and a real project.
+
+##### ***Lock in, we had to change some stuff. real.***
+
+[Link](https://github.com/l-xdt/l-xdt/commits)
 
 ---
 
@@ -353,5 +361,27 @@
   
 
 [Link](https://github.com/l-xdt/xapp/commit/76cfa4b29298f63cb6d207a38c426d29fcf07a96)
+
+#### <u>1st August, 2024</u>
+
+##### i. small change
+
+- ***making the demo work.***
+  
+
+[Link](https://github.com/l-xdt/xapp/commit/dc3a96215b6f7d1b0d573dff0e2dc459a7274562)
+
+### <u>Xelegram (August, 2024)</u>
+
+#### <u>2nd August, 2024</u>
+
+##### i. Finished
+
+- ***First project of august. Holy moly!***
+  
+- ***XDT:: Avun***
+  
+
+[Link](https://github.com/l-xdt/xelegram/commit/497298fc64bdc46108985a770152a887c08571f6)
 
 ---
