@@ -4,11 +4,11 @@
 
 ### <u>The Latest:</u>
 
-### **1. Xelegram :: 1 hour old.**
+### **1. XInterest & xLinks :: 1 Hour Old.**
 
-#### **2. XApp :: 1 day old.**
+#### **2. Xelegram & XApp :: 1 week old.**
 
-#### 3. XCord :: 4 days old.
+#### 3. XCord :: 1½ weeks old.
 
 ## <u>Changelog</u>
 
@@ -94,7 +94,15 @@
 
 ##### ***Lock in, we had to change some stuff. real.***
 
-[Link](https://github.com/l-xdt/l-xdt/commits)
+[Link](https://github.com/l-xdt/l-xdt/commit/c84267f53ff7cd1aff8d259f07f4acc4f9156928)
+
+#### <u>8th August, 2024</u>
+
+##### i. Good Projects!
+
+##### ***Go and check them out!***
+
+[Link](https://github.com/l-xdt/l-xdt/commits/)
 
 ---
 
@@ -367,7 +375,6 @@
 ##### i. small change
 
 - ***making the demo work.***
-  
 
 [Link](https://github.com/l-xdt/xapp/commit/dc3a96215b6f7d1b0d573dff0e2dc459a7274562)
 
@@ -383,5 +390,40 @@
   
 
 [Link](https://github.com/l-xdt/xelegram/commit/497298fc64bdc46108985a770152a887c08571f6)
+
+#### <u>7th August, 2024</u>
+
+##### i. Finished
+
+- ***yeah yeah***
+  
+
+[Link](https://github.com/l-xdt/xelegram/commit/35732c1cfc6f93cf1ba4923aa8b404ebe3aa3509)
+
+### <u>XInterest (August, 2024)</u>
+
+#### <u>8th August, 2024</u>
+
+##### i. Finished
+
+- ***We have done it!***
+  
+- ***XDT:: Avun***
+  
+
+[Link](https://github.com/l-xdt/xinterest/commit/8e49410c4903384f27af554ad0a379e0efb0591b)
+
+### <u>XLinks (August, 2024)</u>
+
+#### <u>8th August, 2024</u>
+
+##### i. Finished
+
+- ***We have done it!***
+  
+- ***XDT:: Avun***
+  
+
+[Link](https://github.com/l-xdt/xlinks/commit/f214620dc507cefd1f9c1c2dfa0f5ed222de65a2)
 
 ---
