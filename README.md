@@ -4,11 +4,11 @@
 
 ### <u>The Latest:</u>
 
-### **1. XInterest & xLinks :: 1 Hour Old.**
+### **1. Phone (xPhone-UI) :: 1 Hour Old.**
 
-#### **2. Xelegram & XApp :: 1 week old.**
+#### **2. . XInterest & xLinks :: 7 Hours old.**
 
-#### 3. XCord :: 1½ weeks old.
+#### 3. XApp & Xelegram :: 1 week old.
 
 ## <u>Changelog</u>
 
@@ -101,6 +101,12 @@
 ##### i. Good Projects!
 
 ##### ***Go and check them out!***
+
+[Link](https://github.com/l-xdt/l-xdt/commit/d98480dfc19bdc4eed7d11f55d869d607c7c5c9b)
+
+##### ii. Good Projects, and smol changes!
+
+##### ***Go and check them out! with these small changes***
 
 [Link](https://github.com/l-xdt/l-xdt/commits/)
 
@@ -396,7 +402,6 @@
 ##### i. Finished
 
 - ***yeah yeah***
-  
 
 [Link](https://github.com/l-xdt/xelegram/commit/35732c1cfc6f93cf1ba4923aa8b404ebe3aa3509)
 
@@ -413,6 +418,13 @@
 
 [Link](https://github.com/l-xdt/xinterest/commit/8e49410c4903384f27af554ad0a379e0efb0591b)
 
+##### ii. smol change
+
+- ***yehi***
+  
+
+[Link](https://github.com/l-xdt/xinterest/commit/412fa87b862e7c06f75066984aa59860dfc574de)
+
 ### <u>XLinks (August, 2024)</u>
 
 #### <u>8th August, 2024</u>
@@ -425,5 +437,32 @@
   
 
 [Link](https://github.com/l-xdt/xlinks/commit/f214620dc507cefd1f9c1c2dfa0f5ed222de65a2)
+
+###### ii. dot dot
+
+- ***elol***
+  
+
+[Link](https://github.com/l-xdt/xlinks/commit/d4bcc116870b671b07e7ee12700a1f7471e3e818)
+
+### <u>xPhone-UI (Phone) (August, 2024)</u>
+
+#### <u>8th August, 2024</u>
+
+##### i. Finished
+
+- ***We have done it!***
+  
+- ***XDT:: Avun***
+  
+
+[Link](https://github.com/l-xdt/phone/commit/7aa58c875d7639772344476ab08bfc4631176d34)
+
+##### ii. smol change
+
+- ***shallopapi.***
+  
+
+[Link](https://github.com/l-xdt/phone/commit/89d2c7ff4e0be1759289ef4fa54910655b6fcc93)
 
 ---
