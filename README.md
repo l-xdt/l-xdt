@@ -4,11 +4,11 @@
 
 ### <u>The Latest:</u>
 
-### **1. Phone (xPhone-UI) :: 1 Hour Old.**
+### **1. Documentation (xDoc) :: 1 Hour Old.**
 
-#### **2. . XInterest & xLinks :: 7 Hours old.**
+#### **2. XInterest, xLinks & Phone (xPhone-UI) :: 3 days old.**
 
-#### 3. XApp & Xelegram :: 1 week old.
+#### 3. XApp & Xelegram :: 2 weeks old.
 
 ## <u>Changelog</u>
 
@@ -107,6 +107,14 @@
 ##### ii. Good Projects, and smol changes!
 
 ##### ***Go and check them out! with these small changes***
+
+[Link](https://github.com/l-xdt/l-xdt/commit/4f735fcc16ff8040cd19572283d579751b2d5fcc)
+
+#### <u>11th August, 2024</u>
+
+##### i. Good Projects & Stuff!
+
+##### ***Go and check them out! Enjoy!***
 
 [Link](https://github.com/l-xdt/l-xdt/commits/)
 
@@ -421,7 +429,6 @@
 ##### ii. smol change
 
 - ***yehi***
-  
 
 [Link](https://github.com/l-xdt/xinterest/commit/412fa87b862e7c06f75066984aa59860dfc574de)
 
@@ -441,7 +448,6 @@
 ###### ii. dot dot
 
 - ***elol***
-  
 
 [Link](https://github.com/l-xdt/xlinks/commit/d4bcc116870b671b07e7ee12700a1f7471e3e818)
 
@@ -461,8 +467,25 @@
 ##### ii. smol change
 
 - ***shallopapi.***
-  
 
 [Link](https://github.com/l-xdt/phone/commit/89d2c7ff4e0be1759289ef4fa54910655b6fcc93)
+
+#### <u>11th August, 2024</u>
+
+##### ii. smoller fix
+
+- ***opus***
+
+[Link](https://github.com/l-xdt/phone/commit/0374833a694cbe4a727b135aaa5d55f23838d50f)
+
+### <u>xDoc (Documentation) (August, 2024)</u>
+
+#### <u>11th August, 2024</u>
+
+##### i. Finished
+
+- ***Almost, the end.***
+
+[Link](https://github.com/l-xdt/documentation/commit/0dbb9c696843b803e1b75ba4f794466bbec1f0a9)
 
 ---
