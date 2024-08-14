@@ -4,11 +4,11 @@
 
 ### <u>The Latest:</u>
 
-### **1. Documentation (xDoc) :: 1 Hour Old.**
+### **1. FTP (x-FTP) :: 1 Hour Old.**
 
-#### **2. XInterest, xLinks & Phone (xPhone-UI) :: 3 days old.**
+#### **2. Documentation (xDoc) & Phone (xPhone-UI) :: 3 days old.**
 
-#### 3. XApp & Xelegram :: 2 weeks old.
+#### 3. XInterest & xLinks :: 1 week old.
 
 ## <u>Changelog</u>
 
@@ -115,6 +115,14 @@
 ##### i. Good Projects & Stuff!
 
 ##### ***Go and check them out! Enjoy!***
+
+[Link](https://github.com/l-xdt/l-xdt/commit/a4c9f85e179daa5052302d3086ec245e0aa4905e)
+
+#### <u>14th August, 2024</u>
+
+##### i. All done!
+
+##### ***This place is now in mainly update mode. Good luck!***
 
 [Link](https://github.com/l-xdt/l-xdt/commits/)
 
@@ -487,5 +495,15 @@
 - ***Almost, the end.***
 
 [Link](https://github.com/l-xdt/documentation/commit/0dbb9c696843b803e1b75ba4f794466bbec1f0a9)
+
+### <u>x-FTP (FTP) (August, 2024)</u>
+
+#### <u>14th August, 2024</u>
+
+##### i. All done!
+
+- ***This place is finished, full thread on NTRT.***
+
+[Link](https://github.com/l-xdt/ftp/commit/22f0b797b7aefc4e57d794fd32599250671f6325)
 
 ---
