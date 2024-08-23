@@ -4,9 +4,9 @@
 
 ### <u>The Latest:</u>
 
-### **1. FTP (x-FTP) :: 5 Days Old.**
+### **1. FTP (x-FTP) :: 1 Week Old.**
 
-#### **2. Documentation (xDoc) & Phone (xPhone-UI) :: 1 week old.**
+#### **2. Documentation (xDoc) & Phone (xPhone-UI) :: 2 weeks old.**
 
 #### 3. XInterest & xLinks :: 2 weeks old.
 
@@ -131,6 +131,14 @@
 ##### i. smol upd.
 
 ##### ***yeah.. smol upd.***
+
+[Link](https://github.com/l-xdt/l-xdt/commit/a04301602517d651fcf0e01c28ecb67beb8addd2)
+
+#### <u>23rd August, 2024</u>
+
+##### i. change 1
+
+##### ***still in rev mode. so please please.***
 
 [Link](https://github.com/l-xdt/l-xdt/commits/)
 
@@ -521,5 +529,13 @@
 - ***just making phone work. still ‌in update mode tho.***
 
 [Link](https://github.com/l-xdt/ftp/commit/f15f2701a5ed2dddd83b6057c744f367be7fc9cc)
+
+#### <u>23rd August, 2024</u>
+
+##### i. smallest change.
+
+- ***scraping some other projects and making the back button work.***
+
+[Link](https://github.com/l-xdt/ftp/commit/6ad3f1cd43c9b75a868e36fcae5e3c004df99c3f)
 
 ---
