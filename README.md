@@ -6,7 +6,7 @@
 
 ### **1. FTP (x-FTP) :: 1 Week Old.**
 
-#### **2.  XInterest & xLinks :: 1 week old.**
+#### **2. XInterest & xLinks :: 1 week old.**
 
 #### 3. Documentation (xDoc) & Phone (xPhone-UI) :: 1 month old.
 
@@ -148,6 +148,12 @@
 
 - ***This is me adding a website for the main place to the catalogue as a sendoff, bye!***
 
+[Link](https://github.com/l-xdt/l-xdt/commit/0a9f596a3960486a51c978825365fa7cfbe7cc66)
+
+##### ii. Small update
+
+- ***Just changed something small in the xlinks.***
+
 [Link](https://github.com/l-xdt/l-xdt/commits/)
 
 ---
@@ -207,12 +213,13 @@
 ##### ii. Changed Stuff
 
 - ***Fixed Button on HTML***
-
+  
 - ***Made a ReadME***
+  
 
 [Link](https://github.com/l-xdt/studium/commit/ef900b45f9ed6573c5d6e71035fdf3220e894669)
 
-##### iii.  Fixed The Icon
+##### iii. Fixed The Icon
 
 - ***Fixed The Icon***
 
@@ -222,15 +229,16 @@
 
 ##### i. Random Bugfix
 
-- ***Just  thought of this while on the tv.***
-
+- ***Just thought of this while on the tv.***
+  
 - ***Fixed the Pomdoro Timer (restart)***
-
+  
 - ***Refresh page when icon is clicked.***
-
+  
 - ***Yeah that's it...***
-
+  
 - ***The Xiotim || Studium Tools.***
+  
 
 [Link](https://github.com/l-xdt/studium/commit/9242e787b90d7fdc2d70f4aff3759a8981467d6a)
 
@@ -251,10 +259,11 @@
 ##### ii. Updated ReadME
 
 - ***I updated the ReadMe to show the Footer Picture as well***
-
+  
 - ***Now provided with 8 pictures..***
-
+  
 - ***Also added! Byee!***
+  
 
 [Link](https://github.com/l-xdt/xiotim/commit/effdc0dc0d7b553483ea64abe1fe757faa9fd485)
 
@@ -265,14 +274,15 @@
 ##### i. Finished!
 
 - ***The whole project has been finished***
-
+  
 - ***I finished even the README***
-
+  
 - ***Just posting it to Github to be done and a backup***
-
+  
 - ***All done!***
-
+  
 - ***XIOTIM!~***
+  
 
 [Link](https://github.com/l-xdt/xiotok/commit/d064df764c73884d8bb58d948e2831d5d6846644)
 
@@ -283,24 +293,27 @@
 ##### i. Finished!
 
 - ***I have uploaded everything.. Bye once-more***
-
+  
 - ***XDT :: Avun***
+  
 
 [Link](https://github.com/l-xdt/xiotube/commit/d671677a5d36abab4babfbc7d10c7641a6cef8ab)
 
 ##### ii. My bad!
 
-- ***I  sent the wrong thing - I have to commit again. Sorry in advance.***
-
+- ***I sent the wrong thing - I have to commit again. Sorry in advance.***
+  
 - ***L-XDT :: Avun***
+  
 
 [Link](https://github.com/l-xdt/xiotube/commit/bfdce7d817aadde24e7faececca071635540335b)
 
 ##### iii. Fix To ReadME
 
 - ***need to fix one of the images***
-
+  
 - ***L-XDT :: Avun***
+  
 
 [Link](https://github.com/l-xdt/xirox/commit/a6ad90cf21ba150575aced0052a2e2d3a2e31b0d)
 
@@ -311,8 +324,9 @@
 ##### i. Finished!
 
 - ***All done.. Byeee!***
-
+  
 - ***XDT :: Avun***
+  
 
 [Link](https://github.com/l-xdt/xiotube/commit/d86d7b013c0e48b94ce7778db38445262f4e9343)
 
@@ -341,8 +355,9 @@
 ##### i. Finished
 
 - ***All Done. Whatchu gon Do?***
-
+  
 - ***Maranx ^ L-XDT***
+  
 
 [Link](https://github.com/l-xdt/xSocial/commit/b778037899929f2d36e2b3e4980c065b961a45bb)
 
@@ -353,8 +368,9 @@
 ##### i. Finished
 
 - ***This is the end. Another Project done.***
-
+  
 - ***XDT:: Avun***
+  
 
 [Link](https://github.com/l-xdt/xgram/commit/2af2822e43fa3c88307493e08a157926ad8d8c39)
 
@@ -365,8 +381,9 @@
 ##### i. Finished
 
 - ***All Done! Enjoy it.***
-
+  
 - ***XDT:: Avun***
+  
 
 [Link](https://github.com/l-xdt/xchat/commit/203cdb4bf001698c77f9df058c36146b2862c0e3)
 
@@ -377,16 +394,18 @@
 ##### i. Finished
 
 - ***All Done! Enjoy it. And have a good end-month!***
-
+  
 - ***XDT:: Avun***
+  
 
 [Link](https://github.com/l-xdt/xcord/commit/b8403f643aa3baa0f523b32be8b57b76bd0ba441)
 
 ##### ii. U1 - Fix
 
 - ***I just needed to fix something real-quick.***
-
+  
 - ***XDT:: Avun***
+  
 
 [Link](https://github.com/l-xdt/xcord/commit/2559d5af7338cdca3c5c95ab3fb57320ac42f406)
 
@@ -397,8 +416,9 @@
 ##### i. Finished
 
 - ***Just one for the end of the month! Enjoy.***
-
+  
 - ***XDT:: Avun***
+  
 
 [Link](https://github.com/l-xdt/xapp/commit/76cfa4b29298f63cb6d207a38c426d29fcf07a96)
 
@@ -417,8 +437,9 @@
 ##### i. Finished
 
 - ***First project of august. Holy moly!***
-
+  
 - ***XDT:: Avun***
+  
 
 [Link](https://github.com/l-xdt/xelegram/commit/497298fc64bdc46108985a770152a887c08571f6)
 
@@ -437,8 +458,9 @@
 ##### i. Finished
 
 - ***We have done it!***
-
+  
 - ***XDT:: Avun***
+  
 
 [Link](https://github.com/l-xdt/xinterest/commit/8e49410c4903384f27af554ad0a379e0efb0591b)
 
@@ -455,8 +477,9 @@
 ##### i. Finished
 
 - ***We have done it!***
-
+  
 - ***XDT:: Avun***
+  
 
 [Link](https://github.com/l-xdt/xlinks/commit/f214620dc507cefd1f9c1c2dfa0f5ed222de65a2)
 
@@ -474,6 +497,12 @@
 
 [Link](https://github.com/l-xdt/xlinks/commit/569c50fd9fd9cf1432d8d8e2e7ac00e14a9f3afb)
 
+##### ii. smol change
+
+- ***smol***
+
+[Link](https://github.com/l-xdt/xlinks/commit/606fe65b2a6c9d197934996f3b12066f85f032b1)
+
 ### <u>xPhone-UI (Phone) (August, 2024)</u>
 
 #### <u>8th August, 2024</u>
@@ -481,8 +510,9 @@
 ##### i. Finished
 
 - ***We have done it!***
-
+  
 - ***XDT:: Avun***
+  
 
 [Link](https://github.com/l-xdt/phone/commit/7aa58c875d7639772344476ab08bfc4631176d34)
 
@@ -524,7 +554,7 @@
 
 ##### i. smol change
 
-- ***just making phone work.  still  ‌in update mode tho.***
+- ***just making phone work. still ‌in update mode tho.***
 
 [Link](https://github.com/l-xdt/ftp/commit/f15f2701a5ed2dddd83b6057c744f367be7fc9cc)
 
