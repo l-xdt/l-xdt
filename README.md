@@ -154,6 +154,12 @@
 
 - ***Just changed something small in the xlinks.***
 
+[Link](https://github.com/l-xdt/l-xdt/commit/84d60f79e081966a223b2a68a83c48ae3e00b59a)
+
+##### iii. smol change
+
+- ***edited ftp***
+
 [Link](https://github.com/l-xdt/l-xdt/commits/)
 
 ---
@@ -573,5 +579,11 @@
 - ***Here is another fresh and clean update. so enjoy!You'll see what they are! Be excited because this may be the last big update.***
 
 [Link](https://github.com/l-xdt/ftp/commit/dabd9fd456e42130a843ea90904569b33db22e6e)
+
+##### ii. smol change
+
+- ***added the css and icon***
+
+[Link](https://github.com/l-xdt/ftp/commit/8cc0d8d2ad5992f42a4072ec419026020cf124be)
 
 ---
