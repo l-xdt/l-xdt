@@ -160,7 +160,69 @@
 
 - ***edited ftp***
 
+[Link](https://github.com/l-xdt/l-xdt/commit/29d4deccc6466f15ad5173c85aa41c4f9b91c27e)
+
+#### <u>9th October, 2024</u>
+
+##### i. Delete Sesh: Part I
+
+- ***Deleting FavIcon due to moving to the new infrastructure.***
+
+[Link](https://github.com/l-xdt/l-xdt/commit/6754a54657fdba61e64cfd1da914a33dc3d69737)
+
+##### ii. Delete Sesh: Part II
+
+- ***Deleting Font due to moving to the new infrastructure.***
+
+[Link](https://github.com/l-xdt/l-xdt/commit/8ceb1d44e27aa7fb19cdd108a5c4ee695133f556)
+
+##### iii. Delete Sesh: Part III
+
+- ***Deleting IMG due to moving to the new infrastructure.***
+
+[Link](https://github.com/l-xdt/l-xdt/commit/7c2cd0080688926b0f1b50f55d37f0ad6f6af316)
+
+##### iv. Delete Sesh: Part IV
+
+- ***Deleting Stylization due to moving to the new infrastructure.***
+
+[Link](https://github.com/l-xdt/l-xdt/commit/b9eaf7a6adf21f7da7bcb0ab61e208c3e2508f19)
+
+##### v. Delete Sesh: Part V
+
+- ***Deleting SVG due to moving to the new infrastructure.***
+
+[Link](https://github.com/l-xdt/l-xdt/commit/a70974add812f355592370f2e304b93b71a87e78)
+
+##### vi. Delete Sesh: Part VI
+
+- ***Deleting the main website due to moving to the new infrastructure.***
+
+[Link](https://github.com/l-xdt/l-xdt/commit/e9751c098516f4a0d2b9358bc8a521a1a4066d7c)
+
+##### vii. Everything Done.
+
+- ***Had to freshen up some stuff.***
+
 [Link](https://github.com/l-xdt/l-xdt/commits/)
+
+### <u>l-xdt.github.io (October, 2024)</u>
+
+#### <u>8th October, 2024</u>
+
+##### i. Moved - Fresh Start.
+
+- ***We have moved you here to accomodate for all the changes made.***
+
+[Link](https://github.com/l-xdt/l-xdt.github.io/commit/8ac2e32615490dd1828247f8e05aadbb3a87c026)
+
+#### <u>9th October, 2024</u>
+
+##### i. ReadMe Added
+
+- ***Added a readme to the mix.***
+
+[Link](https://github.com/l-xdt/l-xdt.github.io/commit/0fa097c3682feac892c38f8c96a6d6aa22930f48)
 
 ---
 
@@ -509,6 +571,14 @@
 
 [Link](https://github.com/l-xdt/xlinks/commit/606fe65b2a6c9d197934996f3b12066f85f032b1)
 
+#### <u>8th October, 2024</u>
+
+##### i. Reversion
+
+- ***Reversed all the changes made before.***
+
+[Link](https://github.com/l-xdt/xlinks/commit/c56fcf473bbd299fbf1a3dd496e854b68cc7959b)
+
 ### <u>xPhone-UI (Phone) (August, 2024)</u>
 
 #### <u>8th August, 2024</u>
@@ -585,5 +655,57 @@
 - ***added the css and icon***
 
 [Link](https://github.com/l-xdt/ftp/commit/8cc0d8d2ad5992f42a4072ec419026020cf124be)
+
+#### <u>8th October, 2024</u>
+
+##### i. Moving on...
+
+- ***I am moving stuff bit by bit to accomodate for the changes I am about to make shortly..***
+
+[Link](https://github.com/l-xdt/ftp/commit/040b1a84cdc590767531686a824c5fc1fff51583)
+
+#### <u>9th October, 2024</u>
+
+##### i. Delete Sesh: Part I
+
+- ***Deleting FavIcon due to moving to the new infrastructure.***
+
+[Link](https://github.com/l-xdt/ftp/commit/e79ff594362762df66744f04afbcf5c34c7f78e5)
+
+##### ii. Delete Sesh: Part II
+
+- ***Deleting Font due to the change and move of new infrastructure.***
+
+[Link](https://github.com/l-xdt/ftp/commit/fa4b9202da5e713f1fdbd138e63c43382cfd3bb1)
+
+##### iii. Delete Sesh: Part III
+
+- ***Deleting IMG due to change/move of infrastructure.***
+
+[Link](https://github.com/l-xdt/ftp/commit/710f78e21b15c354f37045d33fe3c0a503603189)
+
+##### iv. Delete Sesh: Part IV
+
+- ***Deleting Stylization due to move and change of infrastructure.***
+
+[Link](https://github.com/l-xdt/ftp/commit/62056ec1c5b5ef28e556a281fd6b79d3f03008f0)
+
+##### v. Delete Sesh: Part V
+
+- ***Deleting SVG due to change/move of infrastructure to new repository.***
+
+[Link](https://github.com/l-xdt/ftp/commit/09c34c99bb45779b6d44b0fb653bd486cc19f811)
+
+##### vi. Added Screenshots.html
+
+- ***Added Screenshots.***
+
+[Link](https://github.com/l-xdt/ftp/commit/2176b2b72822193266328440fd0a8de8d7f5104a)
+
+##### vii. Merge branch 'main' of https://github.com/l-xdt/ftp
+
+- ***No Comment***
+  
+[Link](https://github.com/l-xdt/ftp/commit/eb20e1ef0f4eeb55463950199d9618c3278f7c30)
 
 ---
