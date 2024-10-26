@@ -4,11 +4,11 @@
 
 ### <u>The Latest:</u>
 
-### **1. FTP (x-FTP) :: 1 Week Old.**
+### **1. LinkedX :: 1 Day Old. **
 
-#### **2.  XInterest & xLinks :: 1 week old.**
+#### **2.  l-xdt.github.io (Main Website) :: 1 Day old.  **
 
-#### 3. Documentation (xDoc) & Phone (xPhone-UI) :: 1 month old.
+#### 3. FTP (x-FTP) & xLinks :: 2 Days old.
 
 ## <u>Changelog</u>
 
@@ -211,6 +211,14 @@
 ##### i. Finishing up!
 
 - ***This is one of the last updates. Cleaning up some things and lose ends.***
+
+[Link](https://github.com/l-xdt/l-xdt/commit/4e95792659c2d30f6bfb889100264b14f93244c2)
+
+#### <u>26th October, 2024</u>
+
+##### i. Small Change!
+
+- ***Updated the leaderboard!***
 
 [Link](https://github.com/l-xdt/l-xdt/commits/)
 
