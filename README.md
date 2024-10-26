@@ -4,9 +4,9 @@
 
 ### <u>The Latest:</u>
 
-### **1. LinkedX :: 1 Day Old. **
+### 1. LinkedX :: 1 Day Old.
 
-#### **2.  l-xdt.github.io (Main Website) :: 1 Day old.  **
+#### 2.  l-xdt.github.io (Main Website) :: 1 Day old.
 
 #### 3. FTP (x-FTP) & xLinks :: 2 Days old.
 
@@ -220,7 +220,13 @@
 
 - ***Updated the leaderboard!***
 
-[Link](https://github.com/l-xdt/l-xdt/commits/)
+[Link](https://github.com/l-xdt/l-xdt/commit/d30c1f0bd38d4b5912ff62a63461bd7901065c91)
+
+##### ii. Smaller Change
+
+- ***Removing the Stars before the leaderboard.***
+
+[Link](https://github.com/l-xdt/l-xdt/commits)
 
 ### <u>l-xdt.github.io (October, 2024)</u>
 
