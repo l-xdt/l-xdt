@@ -4,11 +4,11 @@
 
 ### <u>The Latest:</u>
 
-### 1. LinkedX :: 1 Day Old.
+### 1. LinkedX :: 3 Weeks Old.
 
-#### 2.  l-xdt.github.io (Main Website) :: 1 Day old.
+#### 2.  l-xdt.github.io (Main Website) :: 3 1⁄2 weeks old.
 
-#### 3. FTP (x-FTP) & xLinks :: 2 Days old.
+#### 3. FTP (x-FTP) & xLinks :: 3 1⁄2 weeks old.
 
 ## <u>Changelog</u>
 
@@ -226,7 +226,15 @@
 
 - ***Removing the Stars before the leaderboard.***
 
-[Link](https://github.com/l-xdt/l-xdt/commits)
+[Link](https://github.com/l-xdt/l-xdt/commit/16389ad784fed15ecfdd77cb6f08aca102ad583b)
+
+#### <u>13th November, 2024</u>
+
+##### i.  Fresh update!
+
+- ***I did a small update to The Main Website, and also updated the leaderboard, so that counts for something.***
+
+[Link](https://github.com/l-xdt/l-xdt/commits/)
 
 ### <u>l-xdt.github.io (October, 2024)</u>
 
@@ -253,6 +261,14 @@
 - ***It's about to go down.***
 
 [Link](https://github.com/l-xdt/l-xdt.github.io/commit/aeb7a33750695ba92d69f6b7725a6c35701638cc)
+
+#### <u>13th November, 2024</u>
+
+##### i. Changed URL
+
+- ***Welp, Changed the URL for the Old Not Real Twitter Account, to link to the new account.***
+
+[Link](https://github.com/l-xdt/l-xdt.github.io/commit/421be3a8bb14e92d77a20ab1f3518441fd3d812a)
 
 ### <u>LinkedX (October, 2024)</u>
 
