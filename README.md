@@ -4,11 +4,11 @@
 
 ### <u>The Latest:</u>
 
-### 1. LinkedX :: 3 Weeks Old.
+### 1. xFlix :: 1 Day Old.
 
-#### 2.  l-xdt.github.io (Main Website) :: 3 1⁄2 weeks old.
+#### 2. LinkedX :: 1 month old.
 
-#### 3. FTP (x-FTP) & xLinks :: 3 1⁄2 weeks old.
+#### 3. l-xdt.github.io (Main Website) :: 1 month old.
 
 ## <u>Changelog</u>
 
@@ -234,6 +234,14 @@
 
 - ***I did a small update to The Main Website, and also updated the leaderboard, so that counts for something.***
 
+[Link](https://github.com/l-xdt/l-xdt/commit/8c20ecb5ce435979331d5151074c307a4dfb13ae)
+
+#### <u>20th November, 2024</u>
+
+##### i. Finishing up!
+
+- ***I added a new project, so I had to add the commits, so now we are in the cleaning up stage.***
+
 [Link](https://github.com/l-xdt/l-xdt/commits/)
 
 ### <u>l-xdt.github.io (October, 2024)</u>
@@ -269,6 +277,14 @@
 - ***Welp, Changed the URL for the Old Not Real Twitter Account, to link to the new account.***
 
 [Link](https://github.com/l-xdt/l-xdt.github.io/commit/421be3a8bb14e92d77a20ab1f3518441fd3d812a)
+
+#### <u>17th November, 2024</u>
+
+##### i. Main Web Update
+
+- ***I am updating the Main Website, because I got bored one weekend, and now we have a new project called: xFlix! A new take on Netflix.***
+
+[Link](https://github.com/l-xdt/l-xdt.github.io/commit/6682bb02fd7a3fc43b01bc3ad9de0269819a53ce)
 
 ### <u>LinkedX (October, 2024)</u>
 
@@ -626,6 +642,24 @@
 
 [Link](https://github.com/l-xdt/xlinks/commit/8e8b96052bcb03d93b9092034824a0f4addaed0d)
 
+#### <u>17th November, 2024</u>
+
+##### i. xLinks Update
+
+- ***I am updating xLinks, because I got bored one weekend, and now we have a new project called: xFlix! A new take on Netflix.***
+
+[Link](https://github.com/l-xdt/xlinks/commit/01f410593dc41bee6ade6fddf77449eef301d702)
+
+#### <u>8th August, 2024</u>
+
+##### i. Finished
+
+- ***We have done it!***
+
+- ***XDT:: Avun***
+
+[Link](https://github.com/l-xdt/xlinks/commit/f214620dc507cefd1f9c1c2dfa0f5ed222de65a2)
+
 ### <u>xPhone-UI (Phone) (August, 2024)</u>
 
 #### <u>8th August, 2024</u>
@@ -761,5 +795,49 @@
 - ***Mostly changed up a few things but I added some support for LinkedX!***
 
 [Link](https://github.com/l-xdt/ftp/commit/63db94e771023e0c1664d159cf2e061524e7a0fd)
+
+#### <u>17th November, 2024</u>
+
+##### i. xFTP Update
+
+- ***I am updating xFTP, because I got bored one weekend, and now we have a new project called: xFlix! A new take on Netflix.***
+
+[Link](https://github.com/l-xdt/ftp/commit/0bb1535d908ffecd4cbaa3a9124d3c46a067563b)
+
+##### ii. Added XFlix Folder.
+
+- ***Added XFlix folder to show the files.**
+
+[Link](https://github.com/l-xdt/ftp/commit/1f496bdf17497b739515b7be580c5bb6d384d8a5)
+
+##### iii. Fixed "xflixmain" Problem.
+
+- ***There was a problem where instead of showing xflix/main/ it would be xflixmain/ - so I fixed it.***
+
+[Link](https://github.com/l-xdt/ftp/commit/c606c6d89b2d59dc68da39edca4be5416fd40f30)
+
+#### <u>19th November, 2024</u>
+
+##### i. Done!
+
+- ***I redid X-FTP to fit the needs of the project releasing tomorrow. I will see you then.***
+
+[Link](https://github.com/l-xdt/ftp/commit/4dc8d5497eea731c7478dcd4dc4449715bd36884)
+
+### <u>xFlix (November, 2024)</u>
+
+#### <u>20th November, 2024</u>
+
+##### i. Done with Everything!
+
+- ***As hinted yesterday, I have finished all the code on xFlix, therefore I am uploading it onto GitHub.***
+
+[Link](https://github.com/l-xdt/xflix/commit/db9a83f5fa313c19c729f70dd8dc08b68fc5eaa5)
+
+##### ii. Fix to the button!
+
+- ***Needed to fix the button to go to the login page, so I made it work.***
+
+[Link](https://github.com/l-xdt/xflix/commit/646a40d9c6666037f8e46543d44863da39f05014)
 
 ---
