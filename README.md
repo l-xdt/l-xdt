@@ -4,11 +4,11 @@
 
 ### <u>The Latest:</u>
 
-### 1. xFlix :: 1 Day Old.
+### 1. Xinder :: 1 Day Old.
 
-#### 2. LinkedX :: 1 month old.
+#### 2. xFlix :: 1 week old.
 
-#### 3. l-xdt.github.io (Main Website) :: 1 month old.
+#### 3. LinkedX :: 1 month old.
 
 ## <u>Changelog</u>
 
@@ -242,7 +242,15 @@
 
 - ***I added a new project, so I had to add the commits, so now we are in the cleaning up stage.***
 
-[Link](https://github.com/l-xdt/l-xdt/commits/)
+[Link](https://github.com/l-xdt/l-xdt/commit/9788d91d445bea2b6f5d9199978fa4ad9d174141)
+
+#### <u>26th November, 2024</u>
+
+##### i. Finishing up!, II.
+
+- ***As  we wind up  another sucessful project  in the span of a week, here a is a goodbye. Just not for now, maybe forever, who knows  what the future holds. Thanks for being a part of the ride, though!***
+
+[Link](https://github.com/l-xdt/l-xdt/commits)
 
 ### <u>l-xdt.github.io (October, 2024)</u>
 
@@ -285,6 +293,14 @@
 - ***I am updating the Main Website, because I got bored one weekend, and now we have a new project called: xFlix! A new take on Netflix.***
 
 [Link](https://github.com/l-xdt/l-xdt.github.io/commit/6682bb02fd7a3fc43b01bc3ad9de0269819a53ce)
+
+#### <u>26th November, 2024</u>
+
+##### i. Added a new project to the roster.
+
+- ***I added a new project to the main website to make sure there are links to all of the websites.***
+
+[Link](https://github.com/l-xdt/l-xdt.github.io/commit/f4a0db4d069fbc0b3f9b2ce1341f09f4a614a199)
 
 ### <u>LinkedX (October, 2024)</u>
 
@@ -650,15 +666,13 @@
 
 [Link](https://github.com/l-xdt/xlinks/commit/01f410593dc41bee6ade6fddf77449eef301d702)
 
-#### <u>8th August, 2024</u>
+#### <u>26th November, 2024</u>
 
-##### i. Finished
+##### i. Added Link to Include Xinder
 
-- ***We have done it!***
+- ***This commit is made to include and add xinder to  the roster of Xiotim  Projects.***
 
-- ***XDT:: Avun***
-
-[Link](https://github.com/l-xdt/xlinks/commit/f214620dc507cefd1f9c1c2dfa0f5ed222de65a2)
+[Link](https://github.com/l-xdt/xlinks/commit/9a00fc89e5f1d86e9d81f1f22c43c4c478c178b8)
 
 ### <u>xPhone-UI (Phone) (August, 2024)</u>
 
@@ -824,6 +838,14 @@
 
 [Link](https://github.com/l-xdt/ftp/commit/4dc8d5497eea731c7478dcd4dc4449715bd36884)
 
+#### <u>26th November, 2024</u>
+
+##### i. Small Fixes & New Proj.
+
+- ***I added some new files to FTP to incorporate a new project dropping later today,  fixed a concern with the Main Website folder under FTP and added an "S" to Screenshots lol.***
+
+[Link](https://github.com/l-xdt/ftp/commit/918d7d080053f0d7076486747f322065bbfb4b14)
+
 ### <u>xFlix (November, 2024)</u>
 
 #### <u>20th November, 2024</u>
@@ -839,5 +861,15 @@
 - ***Needed to fix the button to go to the login page, so I made it work.***
 
 [Link](https://github.com/l-xdt/xflix/commit/646a40d9c6666037f8e46543d44863da39f05014)
+
+### <u>Xinder (November, 2024)</u>
+
+#### <u>26th November, 2024</u>
+
+##### i. Finished (with Coding)
+
+- ***As hinted in all the GitHub commits, Xinder is doen and has (now) been  posted to GitHub to forever remain online.***
+
+[Link](https://github.com/l-xdt/xinder/commit/ddfad32c58d044d982c288ab09d788426e9eff78)
 
 ---
