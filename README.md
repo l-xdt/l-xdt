@@ -4,7 +4,7 @@
 
 ### <u>The Latest:</u>
 
-### 1. Xinder :: 1 Day Old.
+### 1. Xinder (Re-Worked) :: 1 Day Old.
 
 #### 2. xFlix :: 1 week old.
 
@@ -250,7 +250,18 @@
 
 - ***As  we wind up  another sucessful project  in the span of a week, here a is a goodbye. Just not for now, maybe forever, who knows  what the future holds. Thanks for being a part of the ride, though!***
 
-[Link](https://github.com/l-xdt/l-xdt/commits)
+[Link](https://github.com/l-xdt/l-xdt/commit/cd89fb9fb576a1528108a6aac5dd43ded4925209)
+
+#### <u>1st December, 2024</u>
+
+##### i. Xinder :: Re-Worked, for December.
+
+- ***Xinder has been re-worked for a December, (Christmas-y Gift) and a Parting Gift. Therefore, here is that. Xinder will be the last confirmed project under the "L-XDT" brand, because to be frank, I have exhausted all the social medias I could think off and I need to focus on other aspects on my life such as learning Java. Thanks for being part of the Journey!***
+  
+  
+- ***-  Alvin Maranx, II ツ (Avun), Owner of Leidenschaft, Xiotim & L-XDT Respectively.***
+
+[Link](https://github.com/l-xdt/l-xdt/commits/)
 
 ### <u>l-xdt.github.io (October, 2024)</u>
 
@@ -846,6 +857,14 @@
 
 [Link](https://github.com/l-xdt/ftp/commit/918d7d080053f0d7076486747f322065bbfb4b14)
 
+#### <u>30th November, 2024</u>
+
+##### i. Xinder :: Redone.
+
+- ***After only a week (world-record), I decided I wanted to re-do Xinder (as a parting gift, for real this time), Therefore I decided that I will update it on here as well, before it releases tomorrow.***
+
+[Link](https://github.com/l-xdt/ftp/commit/5a270ba10cf3fe3792c8d5519a2eb6db8ba9f7e8)
+
 ### <u>xFlix (November, 2024)</u>
 
 #### <u>20th November, 2024</u>
@@ -862,7 +881,7 @@
 
 [Link](https://github.com/l-xdt/xflix/commit/646a40d9c6666037f8e46543d44863da39f05014)
 
-### <u>Xinder (November, 2024)</u>
+### <u>Xinder (November & December (Re-Worked), 2024)</u>
 
 #### <u>26th November, 2024</u>
 
@@ -871,5 +890,51 @@
 - ***As hinted in all the GitHub commits, Xinder is doen and has (now) been  posted to GitHub to forever remain online.***
 
 [Link](https://github.com/l-xdt/xinder/commit/ddfad32c58d044d982c288ab09d788426e9eff78)
+
+#### <u>30th November, 2024</u>
+
+##### i.  Purge, Part I.
+
+- ***Re-work releasing tomorrow, so purging everything to get replaced tomorrow.***
+
+[Link](https://github.com/l-xdt/xinder/commit/fe055c824d4df4c6bfb1ad1e73043f12d1c58831)
+
+##### ii. Purge, Part II.
+
+- ***Re-work releasing tomorrow, so purging everything to get replaced tomorrow.***
+
+[Link](https://github.com/l-xdt/xinder/commit/ff644bafcd175e47860e117926dbd6cc94b96613)
+
+##### iii. Purge, Part III.
+
+- ***Re-work releasing tomorrow, so purging everything to get replaced tomorrow.***
+
+[Link](https://github.com/l-xdt/xinder/commit/30c52013fcc84ab1719962d704e26b9b67d61b8b)
+
+##### iv. Purge, Part IV.
+
+- ***Re-work releasing tomorrow, so purging everything to get replaced tomorrow.***
+
+[Link](https://github.com/l-xdt/xinder/commit/d064ec9e6941439b53c104f9f1f2391cf0dbfe2c)
+
+##### v. Purge, Part V.
+
+- ***Re-work releasing tomorrow, so purging everything to get replaced tomorrow.***
+
+[Link](https://github.com/l-xdt/xinder/commit/c4da81c9d857b183e390e618d00a2cb26b1f31d7)
+
+##### vi. Purge, Part VI.
+
+- ***Re-work releasing tomorrow, so purging everything to get replaced tomorrow.***
+
+[Link](https://github.com/l-xdt/xinder/commit/87cd86938fb0fe07004d9400b173a010c07cec2b)
+
+#### <u>1st December, 2024</u>
+
+##### i. Xinder :: Re-Worked.
+
+- ***First off, wake up! It's the first of the month. Anyway! I have re-worked Xinder to try and make sure that it is a full (three-part project) following the likes of xFlix & xGram (only two-parts). To feel like a full project and feel a little more in-depth and more complex than what it was before.***
+
+[Link](https://github.com/l-xdt/xinder/commit/8fe41a02aa44899e2515d93283b941fefa3fee65)
 
 ---
