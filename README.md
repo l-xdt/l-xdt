@@ -4,11 +4,11 @@
 
 ### <u>The Latest:</u>
 
-### 1. Xinder (Re-Worked) :: 1 Day Old.
+### 1. Xpotify :: 1 Day Old.
 
-#### 2. xFlix :: 1 week old.
+#### 2. Xinder (Re-Worked) :: 1 month old.
 
-#### 3. LinkedX :: 1 month old.
+#### 3. xFlix :: 1.1 months old.
 
 ## <u>Changelog</u>
 
@@ -257,9 +257,16 @@
 ##### i. Xinder :: Re-Worked, for December.
 
 - ***Xinder has been re-worked for a December, (Christmas-y Gift) and a Parting Gift. Therefore, here is that. Xinder will be the last confirmed project under the "L-XDT" brand, because to be frank, I have exhausted all the social medias I could think off and I need to focus on other aspects on my life such as learning Java. Thanks for being part of the Journey!***
-  
-  
+
 - ***-  Alvin Maranx, II ツ (Avun), Owner of Leidenschaft, Xiotim & L-XDT Respectively.***
+
+[Link](https://github.com/l-xdt/l-xdt/commit/24a23dcaf667fb7a1fe6defd2c849081d1320d48)
+
+#### <u>27th December, 2024</u>
+
+##### i. Updated the Log
+
+- ***Updated the log to include anything to do with Xpotify. Thank you for everything. Signing off now.***
 
 [Link](https://github.com/l-xdt/l-xdt/commits/)
 
@@ -312,6 +319,14 @@
 - ***I added a new project to the main website to make sure there are links to all of the websites.***
 
 [Link](https://github.com/l-xdt/l-xdt.github.io/commit/f4a0db4d069fbc0b3f9b2ce1341f09f4a614a199)
+
+#### <u>27th December, 2024</u>
+
+##### i. Added space for a new project.
+
+- ***Added a new slot for Xpotify, a project maybe coming out tomorrow.***
+
+[Link](https://github.com/l-xdt/l-xdt.github.io/commit/5f5f6b9b21daa7a0cab2079322649c6209b2fb1b)
 
 ### <u>LinkedX (October, 2024)</u>
 
@@ -685,6 +700,14 @@
 
 [Link](https://github.com/l-xdt/xlinks/commit/9a00fc89e5f1d86e9d81f1f22c43c4c478c178b8)
 
+#### <u>27th December, 2024</u>
+
+##### i. Updated XLinks
+
+- ***Updated xLinks to include Xpotify, a new project (maybe coning out tomorrow)***
+
+[Link](https://github.com/l-xdt/xlinks/commit/0b0d9d14be3f9ff3fdaea558f03ca5b545205e0b)
+
 ### <u>xPhone-UI (Phone) (August, 2024)</u>
 
 #### <u>8th August, 2024</u>
@@ -865,6 +888,14 @@
 
 [Link](https://github.com/l-xdt/ftp/commit/5a270ba10cf3fe3792c8d5519a2eb6db8ba9f7e8)
 
+#### <u>27th December, 2024</u>
+
+##### i. Updated FTP
+
+- ***Updated FTP to include a new project, Xpotify, (maybe coming out tomorrow)***
+
+[Link](https://github.com/l-xdt/ftp/commit/4f9ad5596e8f269eb2d67c79e8a75d7589190029)
+
 ### <u>xFlix (November, 2024)</u>
 
 #### <u>20th November, 2024</u>
@@ -936,5 +967,15 @@
 - ***First off, wake up! It's the first of the month. Anyway! I have re-worked Xinder to try and make sure that it is a full (three-part project) following the likes of xFlix & xGram (only two-parts). To feel like a full project and feel a little more in-depth and more complex than what it was before.***
 
 [Link](https://github.com/l-xdt/xinder/commit/8fe41a02aa44899e2515d93283b941fefa3fee65)
+
+### <u>Xpotify (December, 2024)</u>
+
+#### <u>27th December, 2024</u>
+
+##### i. Finished (with Coding)
+
+- ***Finished with all the code for this version of Xpotify. the last official project that will be released under the Xiotim brand. It's been one hell of a ride.***
+
+[Link](https://github.com/l-xdt/xpotify/commit/d3c907b3c2f822f5b06e5368e3c7121fd5787ec7)
 
 ---
