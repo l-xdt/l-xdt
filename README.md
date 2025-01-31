@@ -4,11 +4,11 @@
 
 ### <u>The Latest:</u>
 
-### 1. Xpotify :: 1 Day Old.
+### 1. Xpotify :: 1 Month Old.
 
-#### 2. Xinder (Re-Worked) :: 1 month old.
+#### 2. Xinder (Re-Worked) :: 2 months old.
 
-#### 3. xFlix :: 1.1 months old.
+#### 3. xFlix :: 3 months old.
 
 ## <u>Changelog</u>
 
@@ -268,6 +268,14 @@
 
 - ***Updated the log to include anything to do with Xpotify. Thank you for everything. Signing off now.***
 
+[Link](https://github.com/l-xdt/l-xdt/commit/2b84524a338f3790f2352b591c78fe3d7e9b4728)
+
+#### <u>31st January, 2025</u>
+
+##### i. Updated the Log
+
+- ***Updated the log to include anything to do with the latest update to do with the main web. Gone for a while, again.***
+
 [Link](https://github.com/l-xdt/l-xdt/commits/)
 
 ### <u>l-xdt.github.io (October, 2024)</u>
@@ -327,6 +335,14 @@
 - ***Added a new slot for Xpotify, a project maybe coming out tomorrow.***
 
 [Link](https://github.com/l-xdt/l-xdt.github.io/commit/5f5f6b9b21daa7a0cab2079322649c6209b2fb1b)
+
+#### <u>31st January, 2025</u>
+
+##### i. Hey!
+
+- ***Hey, It's been a while. I realized that there was some bug fixes I needed to roll out, and re-did the Screenshots, and most importantly added a background image.***
+
+[Link](https://github.com/l-xdt/l-xdt.github.io/commit/0e31e9dd3ab9ff4d47716d0f33aabf86863acded)
 
 ### <u>LinkedX (October, 2024)</u>
 
@@ -895,6 +911,14 @@
 - ***Updated FTP to include a new project, Xpotify, (maybe coming out tomorrow)***
 
 [Link](https://github.com/l-xdt/ftp/commit/4f9ad5596e8f269eb2d67c79e8a75d7589190029)
+
+#### <u>31st January, 2025</u>
+
+##### i. Added something small to the FTP.
+
+- ***Just something small to add a file to the FTP, to accommodate for the add of the background-hero image.***
+
+[Link](https://github.com/l-xdt/ftp/commit/f393b7db66b5348ef279807a17db7a62c95c809b)
 
 ### <u>xFlix (November, 2024)</u>
 
