@@ -276,7 +276,15 @@
 
 - ***Updated the log to include anything to do with the latest update to do with the main web. Gone for a while, again.***
 
-[Link](https://github.com/l-xdt/l-xdt/commits/)
+[Link](https://github.com/l-xdt/l-xdt/commit/6810dc9104d1bf0e2c0860181cd717f77a05f70c)
+
+#### <u>9th February, 2025</u>
+
+##### i. Added Changelog button.
+
+- ***Yeah. That's the only I added this time, lol! It was a whole update just for that.***
+
+[Link](https://github.com/l-xdt/l-xdt/commits)
 
 ### <u>l-xdt.github.io (October, 2024)</u>
 
@@ -723,6 +731,14 @@
 - ***Updated xLinks to include Xpotify, a new project (maybe coning out tomorrow)***
 
 [Link](https://github.com/l-xdt/xlinks/commit/0b0d9d14be3f9ff3fdaea558f03ca5b545205e0b)
+
+#### <u>9th February, 2025</u>
+
+##### i. Added Changelog button.
+
+- ***Yeah. That's the only I added this time, lol!***
+
+[Link](https://github.com/l-xdt/xlinks/commit/76215de310a4f069881ed90db16d09064c8bbd91)
 
 ### <u>xPhone-UI (Phone) (August, 2024)</u>
 
