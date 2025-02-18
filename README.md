@@ -4,11 +4,11 @@
 
 ### <u>The Latest:</u>
 
-### 1. Xpotify :: 1 Month Old.
+### 1. FTP (Re-Worked) :: 1 Day old.
 
-#### 2. Xinder (Re-Worked) :: 2 months old.
+#### 2. Xpotify :: 1½ months old.
 
-#### 3. xFlix :: 3 months old.
+#### 3. Xinder (Re-Worked) :: 2 months old.
 
 ## <u>Changelog</u>
 
@@ -284,7 +284,15 @@
 
 - ***Yeah. That's the only I added this time, lol! It was a whole update just for that.***
 
-[Link](https://github.com/l-xdt/l-xdt/commits)
+[Link](https://github.com/l-xdt/l-xdt/commit/ffef3433cd4540c0af0d0a0619293e69bacd5cce)
+
+#### <u>18th February, 2025</u>
+
+##### i.  The End of L-XDT is Nigh:  The Added Avunii Button.
+
+- ***This is the end of an era for L-XDT. Showing that the end is neigh, we need to look for new resorts, to show that there is still work in progress. For this I added the Avunii button, where you can find my work after you are done checking out the L-XDT catalogue. Give me a minute, you may be shocked.***
+
+[Link](https://github.com/l-xdt/l-xdt/commits/)
 
 ### <u>l-xdt.github.io (October, 2024)</u>
 
@@ -351,6 +359,26 @@
 - ***Hey, It's been a while. I realized that there was some bug fixes I needed to roll out, and re-did the Screenshots, and most importantly added a background image.***
 
 [Link](https://github.com/l-xdt/l-xdt.github.io/commit/0e31e9dd3ab9ff4d47716d0f33aabf86863acded)
+
+#### <u>17th February, 2025</u>
+
+##### i. Added space for Avunii
+
+- ***In honor of avunii, we have added a space for his website, once you are done checking out L-XDT to go see what he has for you.***
+
+[Link](https://github.com/l-xdt/l-xdt.github.io/commit/1bfe35b14dfa7a00f30ef48242f2c6f4b46e7c61)
+
+##### ii. Renamed the Screenshots to make then work.
+
+- ***Renamed the screenshots due to the fact they were not working, they work now.***
+
+[Link](https://github.com/l-xdt/l-xdt.github.io/commit/7d5d1eb21598deb954976b9abfef6f8b16ca60c1)
+
+##### iii. Okay. that should fix it.
+
+- ***Hopefully that fixed it.***
+
+[Link](https://github.com/l-xdt/l-xdt.github.io/commit/4ec9419d839b8fb7961bb322590bb3af98216dfb)
 
 ### <u>LinkedX (October, 2024)</u>
 
@@ -740,6 +768,14 @@
 
 [Link](https://github.com/l-xdt/xlinks/commit/76215de310a4f069881ed90db16d09064c8bbd91)
 
+#### <u>17th February, 2025</u>
+
+##### i. Added space for Avunii button.
+
+- ***Yes. I added the avunii button. And that's that.***
+
+[Link](https://github.com/l-xdt/xlinks/commit/3c63974db5149f62f636533a330a85babbc63a0d)
+
 ### <u>xPhone-UI (Phone) (August, 2024)</u>
 
 #### <u>8th August, 2024</u>
@@ -935,6 +971,45 @@
 - ***Just something small to add a file to the FTP, to accommodate for the add of the background-hero image.***
 
 [Link](https://github.com/l-xdt/ftp/commit/f393b7db66b5348ef279807a17db7a62c95c809b)
+
+#### <u>16th February, 2025</u>
+
+##### i. A revamp!
+
+- ***As a way to endorse our founder, Avunii's new path, we have decided to added him to our FTP, this is a 2-part revamp.***
+
+[Link](https://github.com/l-xdt/ftp/commit/30958a7d78219d05ea489593ffd11f2e6d604371)
+
+##### ii. A Revamp! (Part II)
+
+- ***Added the files and a new system for things***
+- ***Revamp is now completed. Welcome to FTP II, power by L-XDT***
+
+[Link](https://github.com/l-xdt/ftp/commit/93c6dd533dd99a825790c7c37a9eb7f7f0443a55)
+
+##### iii. Fixed problem with Styling
+
+- ***There was an extra path being skipped.***
+
+[Link](https://github.com/l-xdt/ftp/commit/6bf8ba0f90ad58627738329ccbbca6f480662c38)
+
+##### iv. Fixed a little problem.
+
+- ***Fixed a problem in avunii's FTP.***
+
+[Link](https://github.com/l-xdt/ftp/commit/58e20f0568a9d3d05c3014b501e77c3e6dabf38b)
+
+##### v. Added something small
+
+- ***Added a picture to the main L-XDT website, to lead to Avunii's new chapter, in Coding, and GitHub.***
+
+[Link](https://github.com/l-xdt/ftp/commit/ec3dd0a82e67d8d9e0a5b7353a2bcacdae727582)
+
+##### vi. Added new screenshots.
+
+- ***I added new screenshots for the README due to the re-design.***
+
+[Link](https://github.com/l-xdt/ftp/commit/06c286621308796a56a1a02cae46fee3de043cb4)
 
 ### <u>xFlix (November, 2024)</u>
 
