@@ -292,6 +292,14 @@
 
 - ***This is the end of an era for L-XDT. Showing that the end is neigh, we need to look for new resorts, to show that there is still work in progress. For this I added the Avunii button, where you can find my work after you are done checking out the L-XDT catalogue. Give me a minute, you may be shocked.***
 
+[Link](https://github.com/l-xdt/l-xdt/commit/dda55710cde58c2b0c8a396df4d6ae52e738c3f6)
+
+#### <u>19th February, 2025</u>
+
+##### i. resolved a problem.
+
+- ***There was a problem with FTP. fixed it real quick. and added it to the changelog***
+
 [Link](https://github.com/l-xdt/l-xdt/commits/)
 
 ### <u>l-xdt.github.io (October, 2024)</u>
@@ -1010,6 +1018,14 @@
 - ***I added new screenshots for the README due to the re-design.***
 
 [Link](https://github.com/l-xdt/ftp/commit/06c286621308796a56a1a02cae46fee3de043cb4)
+
+#### <u>19th February, 2025</u>
+
+##### i. resolved a problem.
+
+- ***There was a problem with FTP. fixed it real quick.***
+
+[Link](https://github.com/l-xdt/ftp/commit/ea5e1dc9ff64de7531c519df8e116db41bbfbc33)
 
 ### <u>xFlix (November, 2024)</u>
 
