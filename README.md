@@ -4,11 +4,11 @@
 
 ### <u>The Latest:</u>
 
-### 1. FTP (Re-Worked) :: 1 Day old.
+### 1. Main Website (Re-Worked) :: 1 Day old.
 
-#### 2. Xpotify :: 1½ months old.
+#### 2. FTP (Re-Worked) :: 3 months old.
 
-#### 3. Xinder (Re-Worked) :: 2 months old.
+#### 3. Xpotify :: 5 months old.
 
 ## <u>Changelog</u>
 
@@ -300,6 +300,15 @@
 
 - ***There was a problem with FTP. fixed it real quick. and added it to the changelog***
 
+[Link](https://github.com/l-xdt/l-xdt/commit/58708746a5edaa1db67a9a207de208ba09afb74c)
+
+#### <u>17th May, 2025</u>
+
+##### i. Thank you.
+
+- ***I made this so that I could have a commit to say Happy Birthday to L-XDT, it's it 1st Birtday, I know I am weeks late. But I had to say goodbye. It has been a legendary run, once again. And now I have nothing to offer literally, except this, since you saw the now sign in page lemme give you one user and password: user: guest password: gu3st!. Anyways, bye bye. Forever. I thank you for making this work.***
+- ***Alvin Maranx, II ツ (Avun), Owner of Leidenschaft, Xiotim & L-XDT Respectively.***
+
 [Link](https://github.com/l-xdt/l-xdt/commits/)
 
 ### <u>l-xdt.github.io (October, 2024)</u>
@@ -387,6 +396,62 @@
 - ***Hopefully that fixed it.***
 
 [Link](https://github.com/l-xdt/l-xdt.github.io/commit/4ec9419d839b8fb7961bb322590bb3af98216dfb)
+
+#### <u>17th May, 2025</u>
+
+##### i. Deletion Rampage: I
+
+- ***Something is coming up soon, and I can't wait to show you what it is.***
+
+[Link](https://github.com/l-xdt/l-xdt.github.io/commit/1a91a24faf302360de9d6e3e9f1c5e1a69745dcb)
+
+##### ii. Deletion Rampage: II
+
+- ***Something is coming up soon, and I can't wait to show you what it is.***
+
+[Link](https://github.com/l-xdt/l-xdt.github.io/commit/178c5b353b9170ce1a8573bb48848517d4751aa6)
+
+##### iii. Deletion Rampage: III
+
+- ***Something is coming up soon, and I can't wait to show you what it is.***
+
+[Link](https://github.com/l-xdt/l-xdt.github.io/commit/b66767cf938609f666ff55e44c0229194a436143)
+
+##### iv. Deletion Rampage: IV
+
+- ***Something is coming up soon, and I can't wait to show you what it is.***
+
+[Link](https://github.com/l-xdt/l-xdt.github.io/commit/474964be53a71123784af2c233d324c03ac17284)
+
+##### v. Deletion Rampage: V
+
+- ***Something is coming up soon, and I can't wait to show you what it is.***
+
+[Link](https://github.com/l-xdt/l-xdt.github.io/commit/f21f153ed83551e31f259bc5f14ad7a79a1c8238)
+
+##### vi. Deletion Rampage: VI
+
+- ***Something is coming up soon, and I can't wait to show you what it is.***
+
+[Link](https://github.com/l-xdt/l-xdt.github.io/commit/d98dde36466959eaa334dd5f8884c4a53b273b59)
+
+##### vii. Deletion Rampage: VII
+
+- ***Something is coming up soon, and I can't wait to show you what it is.***
+
+[Link](https://github.com/l-xdt/l-xdt.github.io/commit/b1ff811f9ed134bae6926296fdf7ec6b8d772f57)
+
+##### viii. Deletion Rampage: VIII
+
+- ***Something is coming up soon, and I can't wait to show you what it is.***
+
+[Link](https://github.com/l-xdt/l-xdt.github.io/commit/0f36a301fc9ff8447eec21c26614055be268859f)
+
+##### ix. The Final Reveal.
+
+- ***I redid it. I will tell the full story later. It will all make sense, I promise.***
+
+[Link](https://github.com/l-xdt/l-xdt.github.io/commit/09fb14a8665c90e300e3684563fcdc244a3d4b66)
 
 ### <u>LinkedX (October, 2024)</u>
 
@@ -1026,6 +1091,14 @@
 - ***There was a problem with FTP. fixed it real quick.***
 
 [Link](https://github.com/l-xdt/ftp/commit/ea5e1dc9ff64de7531c519df8e116db41bbfbc33)
+
+#### <u>17th May, 2025</u>
+
+##### i. Added a spot for Re-worked Main Web.
+
+- ***I re-worked Main Web, for something I will say in the last ever, commit.***
+
+[Link](https://github.com/l-xdt/ftp/commit/2a092f533c694a1bf7151924b163b9a0b9b714fa)
 
 ### <u>xFlix (November, 2024)</u>
 
